@@ -1,6 +1,6 @@
 {
-  "author": "Daniel Wade",
-  "description": "Started template for Electron, React, Python app",
+  "author": "Mason Stooksbury",
+  "description": "Boilerplate for Electron, React, and Python",
   "dependencies": {
     "@reduxjs/toolkit": "^1.1.0",
     "axios": "^0.21.1",

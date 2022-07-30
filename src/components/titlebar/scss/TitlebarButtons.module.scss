@@ -11,7 +11,7 @@
 
   &:last-child {
     &:hover {
-      background-color: #ff0000;
+      background-color: #880202;
       span {
         color: #f5f5f5;
       }
@@ -45,7 +45,8 @@
 
   span {
     width: 11px;
-    border-top: solid 1px #252525;
+    border-top: solid 1px #FFFFFF;
+    // border-top: solid 1px #252525;
   }
 }
 
@@ -55,7 +56,8 @@
   span {
     width: 10px;
     height: 10px;
-    border: solid 1px #252525;
+    border: solid 1px #FFFFFF;
+    // border: solid 1px #252525;
   }
 }
 
@@ -94,7 +96,8 @@
   span {
     width: 15px;
     height: 1px;
-    border-top: solid 1px #252525;
+    border-top: solid 1px #FFFFFF;
+    // border-top: solid 1px #252525;
 
     &:first-child {
       transform: rotate(45deg);
